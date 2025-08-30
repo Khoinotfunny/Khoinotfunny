@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, It's KhoiNotFunny</h1>
 <h3 align="center">A python developer and a solo game developer🗣️🔥</h3>
 
-- 🌱 I’m currently learning **GameMaker Studio 2**
+- 🌱 I’m currently learning **Solar2d**
 
-- 💬 Ask me about **Python, GameMaker**
+- 💬 Ask me about **Python, Solar2d**
 
 - ⚡ Fun fact **I'm a chill guy (lil =)))**
 
